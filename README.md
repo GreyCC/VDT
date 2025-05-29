@@ -1,6 +1,7 @@
 # Domain Transfer Generative Model for New Face Generation 
 
 This is the program code of our accepted ICIP 2025 paper:
+
 Chun-Chuen Hui, Wan-Chi Siu, and H. Anthony Chan, "Domain Transfer Generative Model for New Face Generation," in Proceedings of the International Conference on Image Processing, 2025. 
 
 
